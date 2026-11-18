@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Bettermuzlo</string>
-    <string name="xposed_description">(OriginOS Only) Кастомный минималистичный аудиоплеер на экране блокировки</string>
+    <string name="xposed_description">(OriginOS Only) Custom media player with a different styles</string>
     <string name="appearance">Настройки</string>
     <string name="section_general">Основные</string>
     <string name="section_retro">Ретро-режим</string>
@@ -20,7 +20,7 @@
     <string name="color_album">В цвет трека</string>
     <string name="color_system">Система</string>
     <string name="color_custom">Свой</string>
-    <string name="time_format">Правое время</string>
+    <string name="time_format">Время на конце</string>
     <string name="time_remaining">Остаток</string>
     <string name="time_duration">Длительность</string>
     <string name="shape">Внешний вид</string>

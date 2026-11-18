@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Bettermuzlo</string>
-    <string name="xposed_description">(OriginOS Only) Custom minimal media player on the lock screen</string>
+    <string name="xposed_description">(OriginOS Only) Custom media player with a different styles</string>
     <string name="appearance">Settings</string>
     <string name="section_general">General</string>
     <string name="section_retro">Retro mode</string>
