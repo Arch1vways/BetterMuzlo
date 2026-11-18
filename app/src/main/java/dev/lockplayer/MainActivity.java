@@ -121,8 +121,6 @@ public class MainActivity extends Activity {
             return WindowInsets.CONSUMED;
         });
 
-        setContentView(scroll);
-
         buildStatus(root);
         buildGeneral(root);
         buildRetro(root);
@@ -131,6 +129,7 @@ public class MainActivity extends Activity {
         buildReset(root);
         refreshVisibility();
         refreshStatus(LINK_CHECKING);
+        PullDownPromo.install(this, scroll, root);
     }
 
     private void buildStatus(LinearLayout root) {
